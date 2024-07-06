@@ -4,48 +4,48 @@
 
 ## Contents
 
-- Week 0 (TBA)
+- Week 0 (7/6)
   - Introduction
-- Week 1 (TBA)
-  - Part 1
+- Week 1 (7/6, 7/7)
+  - Part 1 (7/6)
+    - Key Features of Rust
+  - Part 2 (7/7)
     - Fundamental Types
     - Onwership and Moves
     - References
-  - Part 2
+- Week 2 (7/13, 7/14)
+  - Part 1 (7/13)
     - Expressions
     - Error Handling
     - Crates and Modules
-- Week 2 (TBA)
-  - Part 1
+  - Part 2 (7/14)
     - Structs
     - Enums and Patterns
-  - Part 2
+- Week 3 (7/20, 7/21)
+  - Part 1 (7/20)
     - Traits and Generics
     - Operator Overloading
-- Week 3 (TBA)
-  - Part 1
+  - Part 2 (7/21)
     - Utility Traits
     - Closures
-  - Part 2
+- Week 4 (7/27, 7/28)
+  - Part 1 (7/27)
     - Iterators
     - Collections
-- Week 4 (TBA)
-  - Part 1
+  - Part 2 (7/28)
     - Strings and Text
     - Input and Output
-  - Part 2
+- Week 5 (8/3, 8/4)
+  - Part 1 (8/3)
     - Concurrency
-- Week 5 (TBA)
-  - Part 1
+  - Part 2 (8/4)
     - Asynchronous Programming
-  - Part 2
+- Week 6 (8/10, 8/11)
+  - Part 1 (8/10)
     - Macros
-- Week 6 (TBA)
-  - Part 1
+  - Part 2 (8/11)
     - Unsafe Code
     - Foreign Functions
-  - Part 2
-    - Rust with WebAssembly
 - Week 7 ~ (TBA)
 
 ## References
