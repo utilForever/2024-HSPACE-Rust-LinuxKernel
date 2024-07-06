@@ -4,7 +4,7 @@
 
 ## Contents
 
-- Week 0 (7/6)
+- Week 0 (7/6) [[Lecture]](./1%20-%20Lecture/240706%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%200.pdf)
   - Introduction
 - Week 1 (7/6, 7/7)
   - Part 1 (7/6)
