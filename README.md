@@ -7,7 +7,7 @@
 - Week 0 (7/6) [[Lecture]](./1%20-%20Lecture/240706%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%200.pdf)
   - Introduction
 - Week 1 (7/6, 7/7)
-  - Part 1 (7/6) [[Lecture]](./1%20-%20Lecture/240706%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%201.pdf)
+  - Part 1 (7/6) [[Lecture]](./1%20-%20Lecture/240706%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%201.pdf) [[Example]](./2%20-%20Example/240706%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%201/)
     - Key Features of Rust
   - Part 2 (7/7)
     - Fundamental Types
