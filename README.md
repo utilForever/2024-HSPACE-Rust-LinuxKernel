@@ -9,7 +9,7 @@
 - Week 1 (7/6, 7/7)
   - Part 1 (7/6) [[Lecture]](./1%20-%20Lecture/240706%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%201.pdf) [[Example]](./2%20-%20Example/240706%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%201/)
     - Key Features of Rust
-  - Part 2 (7/7) [[Lecture #1]](./1%20-%20Lecture/240707%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%202,%20Part%201.pdf) [[Lecture #2]](./1%20-%20Lecture/240707%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%202,%20Part%202.pdf)
+  - Part 2 (7/7) [[Lecture #1]](./1%20-%20Lecture/240707%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%202,%20Part%201.pdf) [[Lecture #2]](./1%20-%20Lecture/240707%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%202,%20Part%202.pdf) [[Example]](./2%20-%20Example/240707%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%201,%20Day%202/)
     - Fundamental Types
     - Onwership and Moves
 - Week 2 (7/13, 7/14)
