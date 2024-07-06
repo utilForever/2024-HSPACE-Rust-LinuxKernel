@@ -12,41 +12,44 @@
   - Part 2 (7/7)
     - Fundamental Types
     - Onwership and Moves
-    - References
 - Week 2 (7/13, 7/14)
   - Part 1 (7/13)
+    - References
     - Expressions
+  - Part 2 (7/14)
     - Error Handling
     - Crates and Modules
-  - Part 2 (7/14)
-    - Structs
-    - Enums and Patterns
 - Week 3 (7/20, 7/21)
   - Part 1 (7/20)
+    - Structs
+    - Enums and Patterns
+  - Part 2 (7/21)
     - Traits and Generics
     - Operator Overloading
-  - Part 2 (7/21)
-    - Utility Traits
-    - Closures
 - Week 4 (7/27, 7/28)
   - Part 1 (7/27)
+    - Utility Traits
+    - Closures
+  - Part 2 (7/28)
     - Iterators
     - Collections
-  - Part 2 (7/28)
-    - Strings and Text
-    - Input and Output
 - Week 5 (8/3, 8/4)
   - Part 1 (8/3)
-    - Concurrency
+    - Strings and Text
+    - Input and Output
   - Part 2 (8/4)
-    - Asynchronous Programming
+    - Concurrency
 - Week 6 (8/10, 8/11)
   - Part 1 (8/10)
-    - Macros
+    - Asynchronous Programming
   - Part 2 (8/11)
+    - Macros
+- Week 7 (8/17, 8/18)
+  - Part 1 (8/17)
     - Unsafe Code
     - Foreign Functions
-- Week 7 ~ (TBA)
+  - Part 2 (8/18)
+    - Rust with WebAssembly
 
 ## References
 
