@@ -15,41 +15,58 @@
 - Week 2 (7/13, 7/14)
   - Part 1 (7/13)
     - References
-    - Expressions
   - Part 2 (7/14)
-    - Error Handling
-    - Crates and Modules
+    - Expressions
+    - Assignment #1
 - Week 3 (7/20, 7/21)
   - Part 1 (7/20)
-    - Structs
-    - Enums and Patterns
+    - Error Handling
   - Part 2 (7/21)
-    - Traits and Generics
-    - Operator Overloading
+    - Crates and Modules
+    - Assignment #2
 - Week 4 (7/27, 7/28)
   - Part 1 (7/27)
-    - Utility Traits
-    - Closures
+    - Structs
   - Part 2 (7/28)
-    - Iterators
-    - Collections
+    - Enums and Patterns
+    - Assignment #3
 - Week 5 (8/3, 8/4)
   - Part 1 (8/3)
-    - Strings and Text
-    - Input and Output
+    - Traits and Generics
   - Part 2 (8/4)
-    - Concurrency
+    - Operator Overloading
+    - Utility Traits
+    - Assignment #4
 - Week 6 (8/10, 8/11)
   - Part 1 (8/10)
-    - Asynchronous Programming
+    - Closures
   - Part 2 (8/11)
-    - Macros
+    - Iterators
+    - Assignment #5
 - Week 7 (8/17, 8/18)
   - Part 1 (8/17)
-    - Unsafe Code
-    - Foreign Functions
+    - Collections
   - Part 2 (8/18)
-    - Rust with WebAssembly
+    - Strings and Text
+    - Assignment #6
+- Week 8 (8/24, 8/25)
+  - Part 1 (8/24)
+    - Input and Output
+  - Part 2 (8/25)
+    - Concurrency
+    - Assignment #7
+- Week 9 (8/31, 9/1)
+  - Part 1 (8/31)
+    - Asynchronous Programming
+  - Part 2 (9/1)
+    - Macros
+    - Assignment #8
+- Week 10 (9/7, 9/8)
+  - Part 1 (9/7)
+    - Unsafe Code
+  - Part 2 (9/8)
+    - Foreign Functions
+    - Assignment #9
 
 ## References
 
