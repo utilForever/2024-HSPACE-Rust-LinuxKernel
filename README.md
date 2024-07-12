@@ -13,7 +13,7 @@
     - Fundamental Types
     - Onwership and Moves
 - Week 2 (7/13, 7/14)
-  - Part 1 (7/13)
+  - Part 1 (7/13) [[Lecture]](./1%20-%20Lecture/240713%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%202,%20Day%201.pdf)
     - References
   - Part 2 (7/14)
     - Expressions
