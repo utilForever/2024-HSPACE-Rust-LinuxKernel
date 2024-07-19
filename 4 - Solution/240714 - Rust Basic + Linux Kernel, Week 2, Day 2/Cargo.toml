@@ -1,0 +1,11 @@
+[workspace]
+members = [
+    "fibonacci",
+    "collatz-sequence",
+    "nested-arrays",
+    "role-playing-game",
+    "rpn-calculator",
+    "minesweeper",
+    "stock-simulation",
+]
+resolver = "2"
