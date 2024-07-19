@@ -19,7 +19,7 @@
     - Expressions
     - Assignment #1
 - Week 3 (7/20, 7/21)
-  - Part 1 (7/20)
+  - Part 1 (7/20) [[Lecture]](./1%20-%20Lecture/240720%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%203,%20Day%201.pdf)
     - Error Handling
   - Part 2 (7/21)
     - Crates and Modules
