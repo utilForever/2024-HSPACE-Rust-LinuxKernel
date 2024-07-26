@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "modules-for-a-gui-library",
+    "luhn-algorithm",
+    "rewriting-with-result",
+]
+resolver = "2"
