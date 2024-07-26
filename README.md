@@ -21,7 +21,7 @@
 - Week 3 (7/20, 7/21)
   - Part 1 (7/20) [[Lecture]](./1%20-%20Lecture/240720%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%203,%20Day%201.pdf)
     - Error Handling
-  - Part 2 (7/21) [[Lecture]](./1%20-%20Lecture/240721%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%203,%20Day%202.pdf) [[Assignment]](./3%20-%20Assignment/240721%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%203,%20Day%202/)
+  - Part 2 (7/21) [[Lecture]](./1%20-%20Lecture/240721%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%203,%20Day%202.pdf) [[Assignment]](./3%20-%20Assignment/240721%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%203,%20Day%202/) [[Solution]](./4%20-%20Solution/240721%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%203,%20Day%202/)
     - Crates and Modules
     - Assignment #2
 - Week 6 (8/17, 8/18)
