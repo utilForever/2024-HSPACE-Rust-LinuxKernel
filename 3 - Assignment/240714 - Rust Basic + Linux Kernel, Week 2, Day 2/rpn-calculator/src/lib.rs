@@ -8,10 +8,41 @@ pub enum CalculatorInput {
 }
 
 pub fn evaluate(inputs: &[CalculatorInput]) -> Option<i32> {
-    unimplemented!(
-		"Given the inputs: {:?}, evaluate them as though they were a Reverse Polish notation expression",
-		inputs,
-	);
+    let mut stack = vec![];
+
+    for input in inputs {
+        if let CalculatorInput::Value(val) = input {
+            stack.push(*val);
+        } else if stack.len() >= 2 {
+            match input {
+                CalculatorInput::Add => {
+                    let length = stack.len();
+                    stack[length - 2] += stack.pop().unwrap();
+                }
+                CalculatorInput::Subtract => {
+                    let length = stack.len();
+                    stack[length - 2] -= stack.pop().unwrap();
+                }
+                CalculatorInput::Multiply => {
+                    let length = stack.len();
+                    stack[length - 2] *= stack.pop().unwrap();
+                }
+                CalculatorInput::Divide => {
+                    let length = stack.len();
+                    stack[length - 2] /= stack.pop().unwrap();
+                }
+                _ => (),
+            }
+        } else {
+            return None;
+        }
+    }
+
+    if stack.len() == 1 {
+        Some(stack[0])
+    } else {
+        None
+    }
 }
 
 #[cfg(test)]
