@@ -1,5 +1,47 @@
+fn get_mine_count(minefield: &[&str], x: usize, y: usize) -> String {
+    if minefield[y].chars().nth(x).unwrap() == '*' {
+        return "*".to_string();
+    }
+
+    let mut count = 0;
+    for i in -1..=1 {
+        for j in -1..=1 {
+            let new_x = x as i32 + i;
+            let new_y = y as i32 + j;
+
+            if new_x < 0 || new_y < 0 {
+                continue;
+            }
+
+            if let Some(row) = minefield.get(new_y as usize) {
+                if let Some(cell) = row.chars().nth(new_x as usize) {
+                    if cell == '*' {
+                        count += 1;
+                    }
+                }
+            }
+        }
+    }
+
+    if count == 0 {
+        " ".to_string()
+    } else {
+        count.to_string()
+    }
+}
+
 pub fn annotate(minefield: &[&str]) -> Vec<String> {
-    unimplemented!("\nAnnotate each square of the given minefield with the number of mines that surround said square (blank if there are no surrounding mines):\n{:#?}\n", minefield);
+    let mut field = vec![];
+
+    for y in 0..minefield.len() {
+        let mut temp = String::new();
+        for x in 0..minefield.first().unwrap_or(&"").len() {
+            temp += &get_mine_count(minefield, x, y)
+        }
+        field.push(temp);
+    }
+
+    field
 }
 
 #[cfg(test)]
