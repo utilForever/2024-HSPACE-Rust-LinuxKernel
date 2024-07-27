@@ -24,13 +24,12 @@ impl Player {
                     self.mana = Some(val);
                     return mana_cost * 2;
                 }
-                0
             }
             None => {
                 self.health = self.health.saturating_sub(mana_cost);
-                0
             }
         }
+        0
     }
 }
 
