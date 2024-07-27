@@ -6,11 +6,31 @@ pub struct Player {
 
 impl Player {
     pub fn revive(&self) -> Option<Player> {
-        unimplemented!("Revive this player")
+        if self.health == 0 {
+            Some(Player {
+                health: 100,
+                mana: if self.mana.is_some() { Some(100) } else { None },
+                level: self.level,
+            })
+        } else {
+            None
+        }
     }
 
     pub fn cast_spell(&mut self, mana_cost: u32) -> u32 {
-        unimplemented!("Cast a spell of cost {}", mana_cost)
+        match self.mana {
+            Some(mana) => {
+                if let Some(val) = mana.checked_sub(mana_cost) {
+                    self.mana = Some(val);
+                    return mana_cost * 2;
+                }
+                0
+            }
+            None => {
+                self.health = self.health.saturating_sub(mana_cost);
+                0
+            }
+        }
     }
 }
 
