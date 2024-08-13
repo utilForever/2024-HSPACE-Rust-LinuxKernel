@@ -24,6 +24,13 @@
   - Part 2 (7/21)
     - Crates and Modules
     - Assignment #2
+- Week 6 (8/17, 8/18)
+  - Part 1 (8/17)
+    - Utility Traits
+    - Assignment #?
+  - Part 2 (8/18)
+    - Closures
+    - Assignment #?
 - Week 8 (9/21, 9/22)
   - Part 1 (9/21) [[Lecture]](./1%20-%20Lecture/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201.pdf) [[Example]](./2%20-%20Example/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201/) [[Assignment]](./3%20-%20Assignment/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201/) [[Solution]](./4%20-%20Solution/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201/)
     - Concurrency
