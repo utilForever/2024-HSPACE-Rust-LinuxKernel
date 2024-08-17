@@ -28,7 +28,7 @@
   - Part 1 (8/17)
     - Utility Traits
     - Assignment #?
-  - Part 2 (8/18) [[Lecture]](./1%20-%20Lecture/240818%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%206,%20Day%202.pdf)
+  - Part 2 (8/18) [[Lecture]](./1%20-%20Lecture/240818%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%206,%20Day%202.pdf) [[Example]](./2%20-%20Example/240818%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%206,%20Day%202/)
     - Closures
     - Assignment #?
 - Week 8 (9/21, 9/22)
