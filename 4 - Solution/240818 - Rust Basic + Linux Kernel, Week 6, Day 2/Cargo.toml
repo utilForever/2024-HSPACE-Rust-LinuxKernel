@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "cache-system",
+    "order-filtering-system",
+    "task-scheduler",
+]
+resolver = "2"
