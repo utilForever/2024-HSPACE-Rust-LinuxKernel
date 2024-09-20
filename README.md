@@ -25,7 +25,7 @@
     - Crates and Modules
     - Assignment #2
 - Week 8 (9/21, 9/22)
-  - Part 1 (9/21)
+  - Part 1 (9/21) [[Lecture]](./1%20-%20Lecture/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201.pdf)
     - Concurrency
     - Assignment #?
   - Part 2 (9/22)
