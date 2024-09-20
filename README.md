@@ -24,6 +24,13 @@
   - Part 2 (7/21)
     - Crates and Modules
     - Assignment #2
+- Week 8 (9/21, 9/22)
+  - Part 1 (9/21)
+    - Concurrency
+    - Assignment #?
+  - Part 2 (9/22)
+    - Macros
+    - Assignment #?
 - Week 9 (10/5, 10/6)
   - Part 1 (10/5) [[Lecture]](./1%20-%20Lecture/241005%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%209,%20Day%201.pdf) [[Example]](./2%20-%20Example/241005%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%209,%20Day%201/)
     - Asynchronous Programming, Part 1
