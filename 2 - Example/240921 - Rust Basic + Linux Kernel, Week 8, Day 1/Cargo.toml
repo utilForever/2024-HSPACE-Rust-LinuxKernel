@@ -1,0 +1,9 @@
+[package]
+name = "fingertips"
+version = "0.1.0"
+edition = "2021"
+authors = ["Jason Orendorff <jason.orendorff@gmail.com>"]
+
+[dependencies]
+argparse = "0.2.1"
+byteorder = "1.5.0"
