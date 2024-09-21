@@ -1,0 +1,7 @@
+[package]
+name = "json-macro"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chris Ohk <utilforever@gmail.com>"]
+
+[dependencies]
