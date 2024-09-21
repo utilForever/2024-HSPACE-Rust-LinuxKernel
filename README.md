@@ -28,7 +28,7 @@
   - Part 1 (9/21) [[Lecture]](./1%20-%20Lecture/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201.pdf) [[Example]](./2%20-%20Example/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201/) [[Assignment]](./3%20-%20Assignment/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201/) [[Solution]](./4%20-%20Solution/240921%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%201/)
     - Concurrency
     - Assignment #?
-  - Part 2 (9/22) [[Lecture]](./1%20-%20Lecture/240922%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%202.pdf)
+  - Part 2 (9/22) [[Lecture]](./1%20-%20Lecture/240922%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%202.pdf) [[Example]](./2%20-%20Example/240922%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%208,%20Day%202/)
     - Macros
     - Assignment #?
 - Week 9 (10/5, 10/6)
