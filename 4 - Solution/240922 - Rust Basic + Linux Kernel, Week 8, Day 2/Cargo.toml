@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "hashmap",
+    "for_2d",
+    "graph",
+]
+resolver = "2"
