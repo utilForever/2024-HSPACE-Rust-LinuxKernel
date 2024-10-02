@@ -24,48 +24,11 @@
   - Part 2 (7/21)
     - Crates and Modules
     - Assignment #2
-- Week 4 (7/27, 7/28)
-  - Part 1 (7/27)
-    - Structs
-  - Part 2 (7/28)
-    - Enums and Patterns
-    - Assignment #3
-- Week 5 (8/3, 8/4)
-  - Part 1 (8/3)
-    - Traits and Generics
-  - Part 2 (8/4)
-    - Operator Overloading
-    - Utility Traits
-    - Assignment #4
-- Week 6 (8/10, 8/11)
-  - Part 1 (8/10)
-    - Closures
-  - Part 2 (8/11)
-    - Iterators
-    - Assignment #5
-- Week 7 (8/17, 8/18)
-  - Part 1 (8/17)
-    - Collections
-  - Part 2 (8/18)
-    - Strings and Text
-    - Assignment #6
-- Week 8 (8/24, 8/25)
-  - Part 1 (8/24)
-    - Input and Output
-  - Part 2 (8/25)
-    - Concurrency
-    - Assignment #7
-- Week 9 (8/31, 9/1)
-  - Part 1 (8/31)
-    - Asynchronous Programming
-  - Part 2 (9/1)
-    - Macros
-    - Assignment #8
-- Week 10 (9/7, 9/8)
-  - Part 1 (9/7)
-    - Unsafe Code
-  - Part 2 (9/8)
-    - Foreign Functions
+- Week 9 (10/5, 10/6)
+  - Part 1 (10/5)
+    - Asynchronous Programming, Part 1
+  - Part 2 (10/6)
+    - Asynchronous Programming, Part 2
     - Assignment #9
 
 ## References
