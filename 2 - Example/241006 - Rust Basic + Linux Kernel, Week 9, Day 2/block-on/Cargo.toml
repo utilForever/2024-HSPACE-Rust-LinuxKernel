@@ -1,0 +1,10 @@
+[package]
+name = "block-on"
+version = "0.1.0"
+authors = ["Chris Ohk <utilforever@gmail.com>"]
+edition = "2021"
+
+[dependencies]
+crossbeam = "0.8.4"
+futures-lite = "2.3.0"
+waker-fn = "1.2"
