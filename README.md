@@ -27,7 +27,7 @@
 - Week 9 (10/5, 10/6)
   - Part 1 (10/5) [[Lecture]](./1%20-%20Lecture/241005%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%209,%20Day%201.pdf) [[Example]](./2%20-%20Example/241005%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%209,%20Day%201/)
     - Asynchronous Programming, Part 1
-  - Part 2 (10/6) [[Lecture]](./1%20-%20Lecture/241006%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%209,%20Day%202.pdf)
+  - Part 2 (10/6) [[Lecture]](./1%20-%20Lecture/241006%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%209,%20Day%202.pdf) [[Example]](./2%20-%20Example/241006%20-%20Rust%20Basic%20+%20Linux%20Kernel,%20Week%209,%20Day%202/)
     - Asynchronous Programming, Part 2
     - Assignment #9
 
